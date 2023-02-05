@@ -12,6 +12,32 @@
 
 
 
+
+
+
+
+![Qt_logo_2016](https://user-images.githubusercontent.com/109927235/216814101-9567fe30-e89b-434d-83d9-fd012f5f5d7c.svg)
+
+![laravel](https://user-images.githubusercontent.com/109927235/216814086-699099d9-4c6c-4e63-b060-1fc02775fdf0.png)
+
+
+
+![nestg](https://user-images.githubusercontent.com/109927235/216814104-a5727447-27a0-49a2-9d24-a8848e620259.svg)
+
+
+
+
+
+
+![opengl](https://user-images.githubusercontent.com/109927235/216814107-a51cf793-2356-41ee-b85a-fdb785f45081.png)
+
+
+
+
+
+
+
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=/ilyes-guy&show_icons=true&theme=radical) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyes-guy&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
