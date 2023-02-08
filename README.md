@@ -22,8 +22,3 @@
 
 
 <a href="https://github.com/jasongaylord/github-stats">
-   
-![](https://github.com/ilyes-guy/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ilyes-guy/github-stats/blob/master/generated/languages.svg)
-
-
