@@ -19,3 +19,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyes-guy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/jasongaylord/github-stats">
+   
+![](https://github.com/ilyes-guy/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ilyes-guy/github-stats/blob/master/generated/languages.svg)
+
+
